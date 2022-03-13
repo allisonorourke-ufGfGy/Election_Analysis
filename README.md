@@ -6,8 +6,8 @@
 2. Diana DeGette
 3. Raymon Anthony Doane
 #### The 3 counties that the results were gathered from were
-1.Arapahoe
-2.Denver
+1. Arapahoe
+2. Denver
 3. Jefferson
 
 ## Election-Audit Results
