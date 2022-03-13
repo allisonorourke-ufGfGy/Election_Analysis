@@ -9,6 +9,7 @@
 1. Arapahoe
 2. Denver
 3. Jefferson
-
+#### There were a total of 369,711 votes in total and we wanted to analyze all of the redults for a number of different metrics. This analysis will help to determine the winner of the election.
 ## Election-Audit Results
+* 1
 ## Election- Audit Summary
