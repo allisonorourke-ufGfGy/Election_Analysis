@@ -27,4 +27,7 @@
   * Winner: Diana DeGette
   * Winning Vote Count: 272,892
   * Winning Percentage: 73.8% 
+ #### The results can be seen in the following lines of code
+ ![code image](https://github.com/allisonorourke-ufGfGy/Election_Analysis/blob/main/Pypoll.png)
+ 
 ## Election- Audit Summary
