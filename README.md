@@ -31,3 +31,6 @@
  ![code image](https://github.com/allisonorourke-ufGfGy/Election_Analysis/blob/main/Pypoll.png)
  
 ## Election- Audit Summary
+### Business Proposal
+#### This code can be used to analyze multiple different elections. This code is writtent to read off of a csv file and pull in information to read it. In the following code you can see where the code pulls in the county names and the candidate names
+![candidate name](
