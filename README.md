@@ -32,5 +32,8 @@ There were a total of 369,711 votes in total and we wanted to analyze all of the
  
 ## Election- Audit Summary
 ### Business Proposal
-This code can be used to analyze multiple different elections. This code is writtent to read off of a csv file and pull in information to read it. In the following code you can see where the code pulls in the county names and the candidate names
+This code can be used to analyze multiple different elections. This code is writtent to read off of a csv file and pull in information to read it. In the following code you can see where the code pulls in the county names and the candidate names. This part of the code can be changed to read different rows depending on the structure of the csv with the information on the election.
 ![candidate name](https://github.com/allisonorourke-ufGfGy/Election_Analysis/blob/main/Pulling%20candidate.png)
+This part of the code can be changed to pull in different csv files which could then be used to analyze different election results. In conjunction with changing the rows it is reading above then you can get a similar output but with different votes.
+![
+
