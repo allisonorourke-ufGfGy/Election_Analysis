@@ -1,7 +1,7 @@
 # Election Analysis
 ## Overview of Election Audit
 ### Intorduction
-We were asked to help our friend Tom with analysing the results of a local election. The challenge was to use python, the command line, VS Code, and git Bash to run the analysis to determine the candidate winner and which county had the highest turnout. There were 3 candidates in the race and the vote were gathered from 3 different counties. The candidates in the election were
+#### We were asked to help our friend Tom with analysing the results of a local election. The challenge was to use python, the command line, VS Code, and git Bash to run the analysis to determine the candidate winner and which county had the highest turnout. There were 3 candidates in the race and the vote were gathered from 3 different counties. The candidates in the election were
 1. Charles Casper Stockham
 2. Diana DeGette
 3. Raymon Anthony Doane
@@ -32,8 +32,8 @@ We were asked to help our friend Tom with analysing the results of a local elect
  
 ## Election- Audit Summary
 ### Business Proposal
-This code can be used to analyze multiple different elections. This code is written to read off of a csv file and pull in information to analyze it. In the following code you can see where the code pulls in the county names and the candidate names. This part of the code can be changed to read different rows depending on the structure of the csv with the information on the election.
+#### This code can be used to analyze multiple different elections. This code is written to read off of a csv file and pull in information to analyze it. In the following code you can see where the code pulls in the county names and the candidate names. This part of the code can be changed to read different rows depending on the structure of the csv with the information on the election.
 ![candidate name](https://github.com/allisonorourke-ufGfGy/Election_Analysis/blob/main/Pulling%20candidate.png)
-This part of the code can be changed to pull in different csv files which could then be used to analyze different election results. In conjunction with changing the rows it is reading above then you can get a similar output but with different votes.
+#### This part of the code can be changed to pull in different csv files which could then be used to analyze different election results. In conjunction with changing the rows it is reading above then you can get a similar output but with different votes.
 ![import code](https://github.com/allisonorourke-ufGfGy/Election_Analysis/blob/main/import%20code.png)
-This code would be able to allow people to analyze the results of any election quickly and correctly. This code allows for hundreds of thousands of lines to be analyzed in a matter of seconds. This can give you an immediate and correct answer without having to worry about human error that comes with physically counting each of the lines. 
+#### This code would be able to allow people to analyze the results of any election quickly and correctly. This code allows for hundreds of thousands of lines to be analyzed in a matter of seconds. This can give you an immediate and correct answer without having to worry about human error that comes with physically counting each of the lines. 
