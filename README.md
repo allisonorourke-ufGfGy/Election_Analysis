@@ -5,7 +5,7 @@ We were asked to help our friend Tom with analysing the results of a local elect
 1. Charles Casper Stockham
 2. Diana DeGette
 3. Raymon Anthony Doane
-The 3 counties that the results were gathered from were
+#### The 3 counties that the results were gathered from were
 1. Arapahoe
 2. Denver
 3. Jefferson
